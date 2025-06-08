@@ -12,3 +12,4 @@ C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Curso C# (DevTalles)\He
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Curso C# (DevTalles)\HelloApp\obj\Debug\net9.0\HelloApp.pdb
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Curso C# (DevTalles)\HelloApp\obj\Debug\net9.0\HelloApp.genruntimeconfig.cache
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Curso C# (DevTalles)\HelloApp\obj\Debug\net9.0\ref\HelloApp.dll
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Curso C# (DevTalles)\HelloApp\obj\Debug\net9.0\HelloApp.sourcelink.json
