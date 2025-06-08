@@ -4,6 +4,8 @@ partial class Program
     static void Main(string[] args)
     {
         //Variables();
-        DataTypes();
+        //DataTypes();
+        //ShowNumericTypes();
+        ShowStringTypes();
     }
 }
