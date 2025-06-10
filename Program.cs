@@ -7,6 +7,7 @@ partial class Program
         //DataTypes();
         //ShowNumericTypes();
         //ShowStringTypes();
-        SalesReport();
+        //SalesReport();
+        CalculadoraSalario();
     }
 }
