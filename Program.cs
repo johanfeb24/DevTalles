@@ -10,6 +10,9 @@ partial class Program
         //SalesReport();
         //CalculadoraSalario();
         //ShowTime();
-        DaysOfLife();
+        //DaysOfLife();
+        //DaysUntilNextBirthday();
+        //TypeDifference();
+        HandleNullables();
     }
 }
