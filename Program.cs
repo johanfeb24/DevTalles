@@ -15,6 +15,9 @@ partial class Program
         //TypeDifference();
         //HandleNullables();
         //Arrays();
-        InventoryManager();
+        //InventoryManager();
+        //ListDictionary();
+        DataStructures();
+
     }
 }
