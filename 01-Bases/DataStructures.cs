@@ -6,7 +6,8 @@ partial class Program
         Johan.Greet();
         Point punto = new Point { X = 30, Y = 20 };
         Console.WriteLine($"Punto({punto.X},{punto.Y})");
-        Cellphone celular = new Cellphone("Xiomi", 2022);
+        Cellphone celular = new Cellphone("Xiaomi", 2022);
+        Console.WriteLine(celular);
     }
 }
 class User
